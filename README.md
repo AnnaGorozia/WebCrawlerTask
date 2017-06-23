@@ -1,9 +1,9 @@
 For program execution type this commands in command line :
 
-mvn clean install
-mvn exec:java  -Dexec.mainClass=Crawler
+mvn clean install<br>
+mvn exec:java  -Dexec.mainClass=Crawler<br>
 
 Requirements: 
 
-Maven 3.3.*
-JDK 1.8
+Maven 3.3.*<br>
+JDK 1.8<br>
